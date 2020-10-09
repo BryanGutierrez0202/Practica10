@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: url(https://i.pinimg.com/originals/2b/5c/00/2b5c00ccc7773a3ff7829408c6cded36.jpg);
+}
+
+h1{
+    color: #000000;
+    text-align: center;
+    background-color: #ffcbcb;
+}
+
+
+.form-register{
+    width: 98%;
+    max-width: 500px;
+    margin: auto;
+    background: #70adb5;
+    border-radius: 7px;
+}
+
+.form__titulo{
+    background: #132743;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 5px solid;
+}
+
+
+ .form-link{
+     width: 100px;
+     margin: 7px;
+     text-align: center;
+     font-size: 14px;
+ }
+ 
+ .btn-enviar{
+    background:#132743 ;
+    color:white;
+    margin: auto;
+    padding: 10px  40px;
+    cursor: pointer;
+ }
+
+ .btn-enviar:active{
+    transform: scale(1.05);
+}
+
+
+
+
